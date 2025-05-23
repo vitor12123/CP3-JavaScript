@@ -25,3 +25,10 @@ body {
   h2 {
     font-size: 45px;
   }
+
+  #alimentos {
+    background-color:  yellow;
+  }
+  #tecnologia {
+    font-weight:  bold;
+  }
