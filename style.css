@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background: white;
+  }
+
+  form {
+    margin-bottom: 20px;
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+  }
+
+  input, select, button {
+    display: block;
+    margin-bottom: 12px;
+    padding: 8px;
+    width: 90%;
+    max-width: 350px;
+  }
+
+  #lista {
+    font-size: 25px;
+  }
+  h2 {
+    font-size: 45px;
+  }
