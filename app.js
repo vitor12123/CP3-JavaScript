@@ -21,7 +21,7 @@ function BTNClK() {
         else {
             let listaItens = document.createElement("div")
             listaItens.innerHTML = `
-        <li> produto: ${product} , preço: $ ${preCO}, categoria: ${categ} </li>
+        <li> produto: ${product} - preço: $ ${preCO} - categoria: ${categ} </li>
         `
             lista.append(listaItens)
         }
